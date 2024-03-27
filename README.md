@@ -10,6 +10,19 @@
 3. JS작업할 경우 직접 createElement함수를 사용해야 함
 4. JSX는 가독성을 높여 주는 역할을 함
 
+3-3. JSX의 장점
+1. 코드가 간결해짐
+2. 가독성 향상
+
+3-4. JSX 사용법
+1. 모든 자바스크립트 문법 지원
+2. 자바스크립트 문법에 XML과 HTML을 섞어서 사용
+3. html이나 xml에 자바스크립트 코드를 사용하고 싶다면 {}괄호 사용
+4. Ex) const element = <h1>안녕, {name}</h1> <- 이와 같이 섞어서 사용 가능
+5. 태그의 속성값을 넣고 싶을때
+// const element = <div tabIndex="0"></div>; 큰 따옴표 사이에 문자열을 넣거나
+// const element - <img src={user.avatarUrl}></img>; 중괄호 사이에 자바스크립트 코드를 넣으면 됨
+
 ## 3월 20일 강의 내용
 ### Chapter 1. 리액트는 무엇인가?
 
