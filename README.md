@@ -1,5 +1,15 @@
 # 박상원 201830213
 
+## 3월 27일 강의 내용
+3-1. JSX(JavaScript XML)란?
+    Javascript에 XML을 추가한 확장 문법입니다.
+
+3-2. JSX의 역할
+1. JSX는 내부적으로 XML/HTML 코드를 자바스크립트로 반환
+2. React가 createElement함수를 사용하여 자동으로 자바스크립트로 변환
+3. JS작업할 경우 직접 createElement함수를 사용해야 함
+4. JSX는 가독성을 높여 주는 역할을 함
+
 ## 3월 20일 강의 내용
 ### Chapter 1. 리액트는 무엇인가?
 
